@@ -5,6 +5,6 @@
 
 
 
-![alt text](https://raw2.github.com/TheNightPhoenix/ProgrammingApplicationCC213/master/Week01/map.png "Class Mind Map")
+![alt text](https://raw2.github.com/TheNightPhoenix/NeuralNetworksCC524/master/Week01/map.png "Class Mind Map")
 
 
