@@ -2,8 +2,8 @@
 
 ##Latest News:
 
-- Week 1 Posted			*23.2.2014*
-
+- **There will be a quiz in the next section**
+- Week 4 Posted         *18.3.2014*
 
 
 ##Course guiedlines:
@@ -21,7 +21,7 @@
 ###Quizes:
 - Manditory.
 - Practical.
-- Syntax Errors 
+- Syntax Errors
 - Plagiarism is **not tolerated**.
 - Open book/notes/files [ expect new program ideas ].
 
